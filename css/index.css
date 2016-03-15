@@ -1,0 +1,27 @@
+*{
+	padding:0px;
+	margin:0px;
+
+
+}
+body{
+	color:#fff;
+	background:#000;
+ 
+}
+#sence{
+	width:600px;
+	height:600px;
+ 
+ 
+	margin:0 auto;
+
+}
+.block{
+	width:28px;
+	height:28px;
+	background:#fff;
+	float:left;
+	 margin-right:1px;
+	margin-bottom:1px; 
+}
